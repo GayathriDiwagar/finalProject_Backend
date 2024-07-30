@@ -1,0 +1,10 @@
+POST http://localhost:4005/app/signup
+Content-Type:application/json
+
+{
+    "name":"Gayathri",
+    "email":"gayueie@gmail.com",
+    "contact":"8939995019",
+    "age":"33",
+    "jobRole":"Developer"
+}
